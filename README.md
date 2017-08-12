@@ -1,12 +1,6 @@
 # patch-links-list
-Because PasteBin links are inefficient
+Because PasteBin links are inefficient and can't have images.
 
-
-Sort of updated version. Will add more stores as I see them. If something turns out to be fucked up about them, they'll be removed. 
-
-If there is a site that needs to be moved to the defunct section, or if there is a site that you feel should be added to this pastebin, please contact me via crackerpatch@gmail.com and I'll see what I can do. 
-
----
 ---
 
 /k/, 4chan and meme-based stores:
