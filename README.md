@@ -2,7 +2,6 @@
 Because PasteBin links are inefficient and can't have images.
 
 ---
-
 /k/, 4chan and meme-based stores:
 ---
 
@@ -48,10 +47,10 @@ Because PasteBin links are inefficient and can't have images.
 
 [/out/ Patches](http://outdoorpatches.tictail.com/ '/out/ Patches')
 
----
----
 
 
+
+---
 Accessories For Your Accessories
 ---
 
@@ -61,10 +60,10 @@ Accessories For Your Accessories
 
 [Velcro by Velcro](http://www.velcro.com/products)
 
----
+
+
 
 ---
-
 Generalized airsoft/tactical patches
 ---
 
@@ -106,9 +105,11 @@ Generalized airsoft/tactical patches
 
 [SalientArts](http://salientarts.storenvy.com/)
 
----
----
 
+
+
+
+---
 Other Stores (Stickers)
 ---
 
@@ -116,9 +117,11 @@ Other Stores (Stickers)
 
 [LowKeyGeeks](http://www.lowkeygeeks.us/products)
 
----
----
 
+
+
+
+---
 Gun-Weeb sellers (?)
 ---
 
@@ -133,9 +136,9 @@ Gun-Weeb sellers (?)
 [Sour](http://www.sourspatchworks.com/ 'Gaza Strip, Give em Elle, Saber Padoru, Fortunate Pun')
 
 
----
----
 
+
+---
 Defunct/MIA stores (possibly)
 ---
 
